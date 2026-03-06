@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Discord Server 1",
+    "invite": "https://discord.gg/abc123",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/discord1.png",
+    "description": "Official community server"
+  },
+  {
+    "name": "Discord Server 2",
+    "invite": "https://discord.gg/xyz456",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/discord2.png",
+    "description": "Partner community server"
+  },
+  {
+    "name": "Discord Server 3",
+    "invite": "https://discord.gg/qwe789",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/discord3.png",
+    "description": "Fun & gaming community"
+  }
+]
