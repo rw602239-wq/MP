@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Partner Client 1",
+    "download": "https://example.com/client1.exe",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/client1.png",
+    "description": "Official client for partners"
+  },
+  {
+    "name": "Partner Client 2",
+    "download": "https://example.com/client2.exe",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/client2.png",
+    "description": "Secondary partner client"
+  }
+]
