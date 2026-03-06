@@ -15,7 +15,7 @@
     "port": "7777",
     "domain": "104.234.180.21:7777",
     "gamemode": "Roleplay",
-    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210154.png",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/refs/heads/main/IMG_20250528_235125.jpg",
     "players": 8,
     "maxplayers": 40
   },
@@ -25,7 +25,7 @@
     "port": "7777",
     "domain": "139.99.125.70",
     "gamemode": "OLD SCHOOL",
-    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210155.png",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/refs/heads/main/lunar-pride.webp",
     "players": 16,
     "maxplayers": 32
   }
