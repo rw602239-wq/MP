@@ -1,30 +1,30 @@
 [
   {
-    "name": "Partner Server 1",
-    "ip": "51.79.52.10",
-    "port": "7777",
-    "domain": "51.79.52.10",
-    "gamemode": "Freeroam",
+    "name": "HOPIXEL REMASTERED ROLEPLAY",
+    "ip": "204.10.193.154",
+    "port": "7001",
+    "domain": "204.10.193.154",
+    "gamemode": "HRP V2",
     "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210153.png",
     "players": 12,
     "maxplayers": 50
   },
   {
-    "name": "Partner Server 2",
-    "ip": "51.79.52.20",
+    "name": "MANDALIKA ROLEPLAY",
+    "ip": "104.234.180.21",
     "port": "7777",
-    "domain": "51.79.52.20",
+    "domain": "104.234.180.21:7777",
     "gamemode": "Roleplay",
     "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210154.png",
     "players": 8,
     "maxplayers": 40
   },
   {
-    "name": "Partner Server 3",
-    "ip": "51.79.52.30",
+    "name": "LUNAR PRIDE ROLEPLAY",
+    "ip": "139.99.125.70",
     "port": "7777",
-    "domain": "51.79.52.30",
-    "gamemode": "Racing",
+    "domain": "139.99.125.70",
+    "gamemode": "OLD SCHOOL",
     "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210155.png",
     "players": 16,
     "maxplayers": 32
