@@ -1,10 +1,32 @@
 [
- {
-  "name":"Hopixel Remastered",
-  "gamemode":"HRP V2.0",
-  "players":"200/150",
-  "address":"188.68.232.110:7777",
-  "domain":"xyz.hopixel.com",
-  "logo":"https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210153.png"
- }
+  {
+    "name": "Partner Server 1",
+    "ip": "51.79.52.10",
+    "port": "7777",
+    "domain": "51.79.52.10",
+    "gamemode": "Freeroam",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210153.png",
+    "players": 12,
+    "maxplayers": 50
+  },
+  {
+    "name": "Partner Server 2",
+    "ip": "51.79.52.20",
+    "port": "7777",
+    "domain": "51.79.52.20",
+    "gamemode": "Roleplay",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210154.png",
+    "players": 8,
+    "maxplayers": 40
+  },
+  {
+    "name": "Partner Server 3",
+    "ip": "51.79.52.30",
+    "port": "7777",
+    "domain": "51.79.52.30",
+    "gamemode": "Racing",
+    "logo": "https://raw.githubusercontent.com/rw602239-wq/MP/main/20260220_210155.png",
+    "players": 16,
+    "maxplayers": 32
+  }
 ]
